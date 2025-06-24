@@ -1,0 +1,5 @@
+User@681a9515
+User@19469ea2
+User@13221655
+User{firstname='arya', lastname='aggarwal', age=22, phonenumber=9580656054}
+User{firstname='animesh', lastname='yadav', age=22, phonenumber=9680656075}
