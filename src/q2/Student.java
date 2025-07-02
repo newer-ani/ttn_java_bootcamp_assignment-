@@ -1,4 +1,4 @@
-package Q2;
+package q2;
 
 import java.util.Objects;
 
