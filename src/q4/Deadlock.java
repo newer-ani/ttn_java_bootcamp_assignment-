@@ -27,6 +27,9 @@ public class Deadlock {
             }
         });
 
+        t1.start();
+        t2.start();
+
     }
     private static void transfer(Account fromAccount,Account toAccount,Integer amount){
 
