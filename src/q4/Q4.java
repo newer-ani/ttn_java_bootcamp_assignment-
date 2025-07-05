@@ -19,6 +19,5 @@ public class Q4 {
         catch (InterruptedException | ExecutionException e) {
             e.printStackTrace();
         }
-
     }
 }
