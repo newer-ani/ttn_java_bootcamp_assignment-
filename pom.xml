@@ -46,4 +46,19 @@
       <version>6.2.0-M2</version> <!-- Milestone version -->
     </dependency>
   </dependencies>
+<!--adding jar plugin for Q4-->
+  <build>
+    <plugins>
+      <plugin>
+        <artifactId>maven-jar-plugin</artifactId>
+        <configuration>
+          <archive>
+            <manifest>
+              <mainClass>com.ttn.maven.App</mainClass>
+            </manifest>
+          </archive>
+        </configuration>
+      </plugin>
+    </plugins>
+  </build>
 </project>
